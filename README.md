@@ -1,10 +1,10 @@
-#Anime Recommendation System
+# Anime Recommendation System
 
 A content-based recommendation system that suggests anime based on user preferences using TF-IDF vectorization and cosine similarity. This project was developed as part of a personal initiative to explore NLP and recommendation systems in Python.
 
 ---
 
-##Features
+## Features
 
 - Uses **TF-IDF vectorization** to represent anime titles and genres.
 -  Computes **cosine similarity** between anime entries to recommend similar shows.
@@ -14,7 +14,7 @@ A content-based recommendation system that suggests anime based on user preferen
 
 ---
 
-##Demo
+## Demo
 
 Paste an anime title (e.g., `Naruto`) and get similar recommendations instantly!
 
