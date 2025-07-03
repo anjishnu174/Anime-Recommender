@@ -19,4 +19,4 @@ A content-based recommendation system that suggests anime based on user preferen
 Paste an anime title (e.g., `Naruto`) and get similar recommendations instantly!
 
 Example output:
-![image](https://github.com/user-attachments/assets/1bd1afae-819b-4849-8636-0529bfbe5b71)
+- ![image](https://github.com/user-attachments/assets/1bd1afae-819b-4849-8636-0529bfbe5b71)
